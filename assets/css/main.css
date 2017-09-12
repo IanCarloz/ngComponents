@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+h2{
+    margin: 0;
+    display: inline-block;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #232f3e;
+}
+
+.amazon-title{
+    color: #fff;
+}
+
+.carrito-position{
+    float: right;
+}
